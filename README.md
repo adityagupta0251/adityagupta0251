@@ -57,7 +57,7 @@
 <div style="border: 2px solid #2196F3; border-radius: 10px; padding: 15px; margin: 20px 0;">
   <h2 align="center">⚔️ Featured Project: Adaptive Warzone</h2>
   <div align="center">
-    <img src="https://media.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif" width="600" alt="Adaptive Warzone Banner">
+    <a href="https://www.indiedb.com/games/aground/images/multiplayer-gifs2" title="Multiplayer Gifs - IndieDB" target="_blank"><img src="https://media.indiedb.com/cache/images/games/1/65/64058/thumb_300x150/april1.gif" alt="Multiplayer Gifs" /></a>
   </div>
   <blockquote style="font-style: italic; text-align: center; margin: 20px 0;">
     "Adapt, strategize, and conquer – where every battle is a new challenge!"

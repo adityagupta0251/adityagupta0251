@@ -6,12 +6,13 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" alt="Hi!">
   
   <!-- Name with custom font and fadeIn effect -->
-  <h1 style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; margin: 0; padding: 10px 0;">Hi, I'm <strong>Aditya Kr</strong></h1>
+  <h1 style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; margin: 0; padding: 10px 0;">
+    Hi, I'm <strong>Aditya Kr</strong>
+  </h1>
   
   <p style="margin: 10px 0; font-size: 1.1em;">
     <!-- Profile views counter -->
     <img src="https://komarev.com/ghpvc/?username=AdityaKr&color=blueviolet&label=Profile+Views" alt="Profile Views">
-    
     <!-- Social badges with links -->
     <a href="https://www.linkedin.com/in/aditya-gupta-42a275359?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
       <img src="https://img.shields.io/badge/-LINKEDIN-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn">
@@ -22,7 +23,9 @@
   </p>
   
   <!-- Profile tagline -->
-  <p style="font-size: 1.15em; margin: 5px 0;">💻 Full Stack Developer | 🛠️ Indie Hacker | 🔐 Cybersecurity Enthusiast</p>
+  <p style="font-size: 1.15em; margin: 5px 0;">
+    💻 Full Stack Developer | 🛠️ Indie Hacker | 🔐 Cybersecurity Enthusiast
+  </p>
 </div>
 
 <!-- Typing Animation Banner -->
@@ -36,12 +39,14 @@
      About Me Section
 ========================== -->
 <div style="border-radius: 15px; padding: 2rem; margin: 2rem 0; background: linear-gradient(145deg, #f8f9fa 0%, #ffffff 100%); box-shadow: 0 4px 30px rgba(0,0,0,0.1);">
-  <h2 align="center" style="font-family: 'Arial Rounded MT Bold'; color: #2c3e50; margin-bottom: 1.5rem;">🚀 About Me</h2>
+  <h2 align="center" style="font-family: 'Arial Rounded MT Bold'; color: #2c3e50; margin-bottom: 1.5rem;">
+    🚀 About Me
+  </h2>
   <table width="100%" style="border-collapse: collapse;">
     <tr>
       <!-- Personal Info List with staggered slideInLeft animations -->
       <td width="65%" style="vertical-align: top;">
-        <ul style="list-style: none; padding: 0;">
+        <ul style="list-style: none; padding: 0; margin: 0;">
           <li style="margin: 1rem 0; padding: 1rem; background: rgba(76,175,80,0.05); border-radius: 10px; animation: slideInLeft 1s;">
             🎂 <strong>16 y/o Self-Taught Developer</strong> – Building production-grade systems with modern architectures.
           </li>
@@ -75,9 +80,11 @@
      Technical Arsenal Section
 ========================== -->
 <div style="border: 2px dashed #FF5722; border-radius: 15px; padding: 2rem; margin: 2rem 0; animation: borderGlow 2s infinite alternate;">
-  <h2 align="center" style="font-family: 'Arial Rounded MT Bold'; color: #2c3e50; margin-bottom: 1.5rem;">🛠 Technical Arsenal</h2>
+  <h2 align="center" style="font-family: 'Arial Rounded MT Bold'; color: #2c3e50; margin-bottom: 1.5rem;">
+    🛠 Technical Arsenal
+  </h2>
   <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(120px, 1fr)); gap: 1rem; padding: 1rem;">
-    <!-- Technology icons (each card animates on hover for interactivity) -->
+    <!-- Technology cards with hover transition -->
     <div style="padding: 1rem; background: rgba(255,87,34,0.05); border-radius: 10px; text-align: center; transition: transform 0.3s;">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" alt="JavaScript">
       <p>JavaScript</p>
@@ -111,7 +118,9 @@
      Featured Project Section
 ========================== -->
 <div style="background: linear-gradient(135deg, #2196F3 0%, #1976D2 100%); border-radius: 15px; padding: 2rem; margin: 2rem 0; color: white;">
-  <h2 align="center" style="font-family: 'Arial Rounded MT Bold'; margin-bottom: 1.5rem;">⚔️ Featured Project: Adaptive Warzone</h2>
+  <h2 align="center" style="font-family: 'Arial Rounded MT Bold'; margin-bottom: 1.5rem;">
+    ⚔️ Featured Project: Adaptive Warzone
+  </h2>
   <div align="center" style="margin: 1.5rem 0;">
     <a href="https://www.indiedb.com/games/aground/images/multiplayer-gifs2" title="Multiplayer Gifs - IndieDB" target="_blank">
       <img src="https://media.indiedb.com/cache/images/games/1/65/64058/thumb_300x150/april1.gif" alt="Gameplay Demo" style="border-radius: 10px; box-shadow: 0 8px 30px rgba(0,0,0,0.3);">
@@ -126,8 +135,12 @@
       <li>🎮 Phaser.js game engine</li>
     </ul>
     <div style="margin-top: 1.5rem; display: flex; gap: 1rem; justify-content: center;">
-      <a href="#"><img src="https://img.shields.io/badge/-DEMO-FFFFFF?logo=itch.io&logoColor=black" alt="Live Demo"></a>
-      <a href="#"><img src="https://img.shields.io/badge/-REPO-181717?logo=github" alt="GitHub Repo"></a>
+      <a href="#">
+        <img src="https://img.shields.io/badge/-DEMO-FFFFFF?logo=itch.io&logoColor=black" alt="Live Demo">
+      </a>
+      <a href="#">
+        <img src="https://img.shields.io/badge/-REPO-181717?logo=github" alt="GitHub Repo">
+      </a>
     </div>
   </div>
 </div>
@@ -138,7 +151,9 @@
      GitHub Stats Section
 ========================== -->
 <div style="border: 2px solid #9C27B0; border-radius: 15px; padding: 2rem; margin: 2rem 0;">
-  <h2 align="center" style="font-family: 'Arial Rounded MT Bold'; color: #2c3e50; margin-bottom: 1.5rem;">📊 Development Analytics</h2>
+  <h2 align="center" style="font-family: 'Arial Rounded MT Bold'; color: #2c3e50; margin-bottom: 1.5rem;">
+    📊 Development Analytics
+  </h2>
   <div style="display: flex; justify-content: center; gap: 2rem; flex-wrap: wrap;">
     <img src="https://github-readme-stats.vercel.app/api?username=AdityaKr&show_icons=true&theme=radical" alt="GitHub Stats">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=AdityaKr&theme=radical" alt="Contribution Streak">
@@ -152,7 +167,9 @@
      Contact Section
 ========================== -->
 <div style="background: #f8f9fa; border-radius: 15px; padding: 2rem; margin: 2rem 0;">
-  <h2 align="center" style="font-family: 'Arial Rounded MT Bold'; color: #2c3e50; margin-bottom: 1.5rem;">🤝 Let's Connect</h2>
+  <h2 align="center" style="font-family: 'Arial Rounded MT Bold'; color: #2c3e50; margin-bottom: 1.5rem;">
+    🤝 Let's Connect
+  </h2>
   <div style="display: flex; justify-content: center; gap: 1.5rem; flex-wrap: wrap;">
     <a href="mailto:nooneitsadik0251@gmail.com">
       <img src="https://img.shields.io/badge/-EMAIL-D14836?logo=gmail&logoColor=white&style=for-the-badge" alt="Email">
@@ -187,7 +204,9 @@
       <img src="https://img.shields.io/badge/Sponsor-❤️-brightgreen" alt="Sponsor on GitHub">
     </a>
   </p>
-  <p align="center" style="font-style: italic;">Your sponsorship is an investment in a future where technology transforms dreams into reality!</p>
+  <p align="center" style="font-style: italic;">
+    Your sponsorship is an investment in a future where technology transforms dreams into reality!
+  </p>
 </div>
 
 <hr/>
@@ -239,7 +258,8 @@
   @media only screen and (max-width: 600px) {
     h1 { font-size: 1.8em; }
     p { font-size: 1em; }
-    div[style*="padding: 2rem"] { padding: 1rem; }
+    /* Reduce padding for containers */
+    div[style*="padding: 2rem"] { padding: 1rem !important; }
     table { width: 100%; }
   }
 </style>

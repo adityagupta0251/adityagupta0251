@@ -104,7 +104,7 @@
   <p align="center">
     <a href="mailto: nooneitsadik0251@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white" alt="Email"></a>
     <a href="https://dev.to/adityagupta0251"><img src="https://img.shields.io/badge/-Dev.to-0A0A0A?logo=dev.to&logoColor=white" alt="Dev.to"></a>
-    <a href="https://medium.com/@yourprofile"><img src="https://img.shields.io/badge/-Medium-12100E?logo=medium&logoColor=white" alt="Medium"></a>
+    <a href="https://medium.com/@nooneitsadik0251"><img src="https://img.shields.io/badge/-Medium-12100E?logo=medium&logoColor=white" alt="Medium"></a>
     <a href="https://github.com/adityagupta0251"><img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white" alt="GitHub"></a>
   </p>
 </div>

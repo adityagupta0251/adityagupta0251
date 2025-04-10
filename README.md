@@ -120,7 +120,7 @@
     <li><strong>Expand Project Reach</strong>: Enhance infrastructure for scalable and robust solutions.</li>
   </ul>
   <p align="center">
-    <a href="https://github.com/sponsors/AdityaKr">
+    <a href="https://github.com/sponsors/adityagupta0251">
       <img src="https://img.shields.io/badge/Sponsor-❤️-brightgreen" alt="Sponsor on GitHub">
     </a>
   </p>

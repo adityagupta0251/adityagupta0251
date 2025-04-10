@@ -3,7 +3,7 @@
   <h1 style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">Hi, I'm Aditya Kr</h1>
   <p>
     <img src="https://komarev.com/ghpvc/?username=AdityaKr&color=blueviolet&label=Profile+Views" alt="Profile Views">
-    <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-Connect-%230A66C2?logo=linkedin" alt="LinkedIn"></a>
+    <a href="https://www.linkedin.com/in/aditya-gupta-42a275359?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><img src="https://img.shields.io/badge/LinkedIn-Connect-%230A66C2?logo=linkedin" alt="LinkedIn"></a>
     <a href="https://twitter.com/yourhandle"><img src="https://img.shields.io/badge/Twitter-Follow-%231DA1F2?logo=twitter" alt="Twitter"></a>
   </p>
 </div>

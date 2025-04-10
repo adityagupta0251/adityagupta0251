@@ -67,9 +67,9 @@
 ========================== -->
 ## 📊 Development Analytics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AdityaKr&show_icons=true&theme=radical)
-![Contribution Streak](https://github-readme-streak-stats.herokuapp.com/?user=AdityaKr&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaKr&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=adityagupta0251&show_icons=true&theme=radical)
+![Contribution Streak](https://github-readme-streak-stats.herokuapp.com/?user=adityagupta0251&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adityagupta0251&layout=compact&theme=radical)
 
 ---
 

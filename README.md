@@ -102,7 +102,7 @@
 <div style="border: 2px solid #FF9800; border-radius: 10px; padding: 15px; margin: 20px 0;">
   <h2 align="center">🤝 Connect With Me</h2>
   <p align="center">
-    <a href="mailto:your.email@domain.com"><img src="https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white" alt="Email"></a>
+    <a href="mailto: nooneitsadik0251@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white" alt="Email"></a>
     <a href="https://dev.to/adityagupta0251"><img src="https://img.shields.io/badge/-Dev.to-0A0A0A?logo=dev.to&logoColor=white" alt="Dev.to"></a>
     <a href="https://medium.com/@yourprofile"><img src="https://img.shields.io/badge/-Medium-12100E?logo=medium&logoColor=white" alt="Medium"></a>
     <a href="https://github.com/AdityaKr"><img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white" alt="GitHub"></a>

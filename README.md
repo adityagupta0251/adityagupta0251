@@ -7,7 +7,7 @@
 
 # Hi, I'm **Aditya Kr** 👨💻
 
-[![Profile Views](https://komarev.com/ghpvc/?username=AdityaKr&color=006AFF&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/adityagupta0251)
+[![Profile Views](https://komarev.com/ghpvc/?username=adityagupta0251&color=006AFF&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/adityagupta0251)
 
 <div align="center" style="margin: 20px 0">
   <a href="https://www.linkedin.com/in/aditya-gupta-42a275359">

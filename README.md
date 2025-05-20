@@ -123,7 +123,7 @@
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityagupta0251&layout=compact&theme=radical&hide_border=true" width="100%">
     </td>
     <td align="center" width="50%">
-      <img src="https://streak-stats.demolab.com?user=adityagupta0251&theme=radical&hide_border=true" width="100%">
+      <img src="https://streak-stats.demolab.com/?user=adityagupta0251&theme=radical&hide_border=true" width="100%">
     </td>
   </tr>
   <tr>
@@ -133,10 +133,11 @@
   </tr>
   <tr>
     <td colspan="2" align="center">
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=adityagupta0251&theme=redical&bg_color=20232a&hide_border=true" width="100%">
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=adityagupta0251&theme=radical&bg_color=20232a&hide_border=true" width="100%">
     </td>
   </tr>
 </table>
+
 
 ---
 

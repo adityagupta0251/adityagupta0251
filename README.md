@@ -16,7 +16,7 @@ profile:
 contact_info:
   email: "📧 adiunknown0261@gmail.com"
   phone: "📱 +91 9955510486"
-  github: "🐙 github.com/adityagupta"
+  github: "🐙 github.com/adityagupta0251"
   linkedin: "💼 linkedin.com/in/aditya-gupta-dev"
 
 stats:
@@ -27,8 +27,8 @@ stats:
 ```
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=adityagupta&color=blueviolet&style=flat-square&label=Profile+Views" />
-  <img src="https://img.shields.io/github/followers/adityagupta?style=flat-square&color=blue" />
+  <img src="https://komarev.com/ghpvc/?username=adityagupta0251&color=blueviolet&style=flat-square&label=Profile+Views" />
+  <img src="https://img.shields.io/github/followers/adityagupta0251?style=flat-square&color=blue" />
   <img src="https://img.shields.io/badge/Age-16-brightgreen?style=flat-square" />
   <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-orange?style=flat-square" />
 </p>
@@ -251,8 +251,8 @@ console.log("🚀 Technology stack ready for any challenge!");
 ## 📊 GitHub Analytics & Performance
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=adityagupta&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=20"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityagupta&layout=compact&langs_count=10&theme=tokyonight&border_radius=20"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=adityagupta0251&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=20"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityagupta0251&layout=compact&langs_count=10&theme=tokyonight&border_radius=20"/>
 </div>
 
 ```python
@@ -298,11 +298,11 @@ print(get_coding_philosophy())
 ```
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adityagupta&theme=tokyonight&border_radius=20" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adityagupta025&1theme=tokyonight&border_radius=20" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=adityagupta&theme=tokyo-night&hide_border=true&border_radius=20" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=adityagupta0251&theme=tokyo-night&hide_border=true&border_radius=20" alt="Activity Graph" />
 </div>
 
 ---

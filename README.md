@@ -17,7 +17,7 @@ contact_info:
   email: "📧 adiunknown0261@gmail.com"
   phone: "📱 +91 9955510486"
   github: "🐙 github.com/adityagupta0251"
-  linkedin: "💼 linkedin.com/in/aditya-gupta-dev"
+  linkedin: "💼 linkedin.com/in/aditya-gupta-42a275359/"
 
 stats:
   profile_views: "👀 Dynamic Counter"

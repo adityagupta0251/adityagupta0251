@@ -512,33 +512,55 @@ featured_projects:
 
 ---
 
-## 💡 Current Learning Path & Future Vision
+            "🧰 full_stack_engineering": {
+                "frontend": ["React ⚛️", "Next.js ⏭️", "Tailwind CSS 🌬️"],
+                "backend": ["Node.js 🚀", "Express ⚡", "MongoDB 🍃", "PostgreSQL 🐘"],
+                "devops": ["CI/CD Pipelines 🛠️", "GitHub Actions 🤖"],
+                "timeline": "🗓️ Q4 2024 - Q1 2025",
+                "projects": ["SaaS platforms", "End-to-end productivity tools"]
+            },
 
-```python
-# 🚀 CONTINUOUS LEARNING & GROWTH TRAJECTORY
-class YoungDeveloperJourney:
-    def __init__(self):
-        self.current_age = 16
-        self.experience_years = 3  # Started at 13
-        self.learning_philosophy = "🌟 Never stop learning, never stop building"
-        
-    def current_learning_goals_2024(self):
+            "🌱 java_spring_boot": {
+                "modules": ["Spring Boot 🌿", "Spring Security 🛡️", "RESTful APIs 🔗", "Hibernate ORM 🏛️"],
+                "goals": "Enterprise backend development with Java",
+                "timeline": "🗓️ Q1 2025",
+                "projects": ["Student management system", "Secure e-commerce backend"]
+            },
+
+            "🐍 python_mastery": {
+                "domains": ["FastAPI ⚡", "Django 🍰", "Flask 🌶️"],
+                "focus": "Robust backend services & AI integrations",
+                "timeline": "🗓️ Throughout 2025",
+                "projects": ["AI Chatbots 🤖", "Data-driven dashboards 📊", "Automated web tools 🧰"]
+            },
+
+            "⛓️ blockchain_development": {
+                "technologies": ["Solidity 🧾", "Ethereum ⚙️", "Hardhat 🛠️", "Metamask 🦊"],
+                "concepts": ["Smart Contracts 🤝", "Decentralized Apps (DApps) 🌍", "Token Standards (ERC-20, ERC-721) 💰"],
+                "timeline": "🗓️ Q2 2025",
+                "projects": ["Voting systems", "NFT marketplace", "Blockchain identity management"]
+            },
+
+            "🛡️ cybersecurity_foundations": {
+                "topics": ["Web Security 🔐", "OWASP Top 10 📜", "Network Security 🌐", "Ethical Hacking 💻"],
+                "tools": ["Burp Suite 🕷️", "Wireshark 🐬", "Metasploit 💣", "Nmap 🛰️"],
+                "timeline": "🗓️ Q3-Q4 2025",
+                "certifications": ["TryHackMe", "CompTIA Security+ (aspiration)"],
+                "projects": ["CTF challenges", "Web pentesting lab", "Personal SOC dashboard"]
+            }
+        }
+
+    def long_term_vision(self):
         return {
-            "☁️ cloud_native_architecture": {
-                "technologies": ["Kubernetes 🎯", "Docker Swarm 🐋", "Istio Service Mesh 🕸️"],
-                "focus": "Container orchestration and microservices scaling",
-                "timeline": "🗓️ Q2-Q3 2024",
-                "projects": ["Microservices deployment", "Auto-scaling implementations"]
-            },
-            
-            "🧠 advanced_ai_integration": {
-                "areas": ["LangChain 🔗", "Vector Databases 📊", "MLOps 🔄"],
-                "applications": "Real-world AI integration in applications",
-                "timeline": "🗓️ Q3-Q4 2024",
-                "goals": ["Production AI systems", "ML model deployment"]
-            },
-            
-            "🏗️ system_design_mastery": {
-                "concepts": ["Distributed Systems 🌐", "Load Balancing ⚖️", "Caching Strategies ⚡"],
-                "preparation": "Building enterprise-grade applications",
-                
+            "🔭 vision_2030": [
+                "👨‍💻 Build an open-source developer platform",
+                "🌐 Architect scalable, AI-driven global solutions",
+                "🏫 Mentor young devs in underserved communities",
+                "🛡️ Contribute to secure, ethical tech ecosystems"
+            ]
+        }
+
+# Instantiate and print the roadmap
+me = YoungDeveloperJourney()
+print(me.current_learning_goals_2025())
+print(me.long_term_vision())

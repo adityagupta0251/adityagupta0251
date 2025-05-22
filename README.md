@@ -251,9 +251,10 @@ console.log("🚀 Technology stack ready for any challenge!");
 ## 📊 GitHub Analytics & Performance
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=adityagupta0251&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=20"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityagupta0251&layout=compact&langs_count=10&theme=tokyonight&border_radius=20"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=adityagupta0251&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityagupta0251&layout=compact&langs_count=10&theme=tokyonight" />
 </div>
+
 
 ```python
 # 📈 GITHUB PERFORMANCE METRICS & CODING STATISTICS

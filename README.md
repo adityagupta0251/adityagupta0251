@@ -7,7 +7,6 @@
   <img src="https://img.shields.io/badge/Age-16-brightgreen?style=for-the-badge" alt="Age" />
   <img src="https://img.shields.io/badge/Location-India-blue?style=for-the-badge" alt="Location" />
 
-```yaml
 # 👨‍💻 DEVELOPER PROFILE
 name: Aditya Gupta
 age: 16

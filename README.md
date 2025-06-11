@@ -1,16 +1,3 @@
-<!--
-===============================================================
-🔥 ADITYA GUPTA — ULTIMATE GITHUB PROFILE README
-===============================================================
-Features:
-• Dynamic typing header  
-• HTML-style tables for key data  
-• Live GitHub stats & contribution graph  
-• Mermaid pie chart for tech distribution  
-• YAML snippet for quick profile overview  
-• Consistent Cascadia Code font & spacing  
--->
-
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&weight=600&size=32&duration=4000&pause=700&color=00D4FF&center=true&vCenter=true&width=900&lines=console.log(%22Hello%2C%20World!%20I'm%20Aditya%20Gupta%22);16yo%20Full-Stack%20Architect;AI%2FML%20Enthusiast;Database%20Expert" alt="Typing Header" />
 </div>
@@ -298,4 +285,3 @@ Saraswati Vidya Mandir	3× Section Topper • Class Rep. & Monitor	2012–2020
 <p align="center">
   <em>“Code is poetry under pressure—every push a crafted move in my cyber-chess game.”</em>
 </p>
-```

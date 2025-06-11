@@ -48,7 +48,9 @@ current_focus: Building production-ready systems at scale
     </tr>
   </table>
 </div>
+
 ---
+
 🛠️ Tech Stack Distribution
 
 %%{init: {'theme':'dark','themeVariables':{'primaryColor':'#0d1117','edgeLabelBackground':'#111111','tertiaryColor':'#1a1a1a'}}}%%
@@ -61,6 +63,7 @@ pie showData
     "DevOps"            : 10
 
 ---
+
 🏆 Achievements & Awards
 
 <table>

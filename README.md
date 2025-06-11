@@ -137,9 +137,3 @@ print(FeaturedProjects().show_achievements())
 </div>
 
 ---
-
-<div align="center">
-  
-![Snake Game Contribution](https://raw.githubusercontent.com/adityagupta0251/adityagupta0251/output/github-contribution-grid-snake.svg)
-
-</div>

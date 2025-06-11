@@ -1,4 +1,3 @@
----
 
 🏆 Achievements & Awards
 
@@ -39,9 +38,6 @@
   </tbody>
 </table>
 
-
----
-
 🚀 Projects
 
 <table>
@@ -74,9 +70,6 @@
     </tr>
   </tbody>
 </table>
-
-
----
 
 🤝 Volunteering & Experience
 
@@ -111,8 +104,6 @@
   </tbody>
 </table>
 
-
----
 
 📜 Certifications & Technical Skills
 
@@ -183,5 +174,3 @@
   </tbody>
 </table>
 
-
----

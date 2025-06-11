@@ -6,10 +6,6 @@
   <img src="https://komarev.com/ghpvc/?username=adityagupta0251&label=👁️+Profile+Views&color=00d4ff&style=for-the-badge" alt="Profile Views" />
   <img src="https://img.shields.io/badge/Age-16-brightgreen?style=for-the-badge" alt="Age" />
   <img src="https://img.shields.io/badge/Location-India-blue?style=for-the-badge" alt="Location" />
-  <img src="https://img.shields.io/badge/Focus-Full-Stack%20%7C%20AI-orange?style=for-the-badge" alt="Focus" />
-</p>
-
----
 
 ```yaml
 # 👨‍💻 DEVELOPER PROFILE
@@ -26,8 +22,6 @@ specialties:
   - 🏥 Healthcare Tech
 current_focus: Building production-ready systems at scale
 
-
----
 
 📊 GitHub Analytics
 
@@ -55,7 +49,6 @@ current_focus: Building production-ready systems at scale
     </tr>
   </table>
 </div>
----
 
 🛠️ Tech Stack Distribution
 
@@ -68,8 +61,6 @@ pie showData
     "Frontend"          : 15
     "DevOps"            : 10
 
-
----
 
 🏆 Achievements & Awards
 
@@ -109,7 +100,6 @@ pie showData
     </tr>
   </tbody>
 </table>
----
 
 🚀 Featured Projects
 
@@ -143,7 +133,6 @@ pie showData
     </tr>
   </tbody>
 </table>
----
 
 🤝 Volunteering & Experience
 
@@ -177,7 +166,7 @@ pie showData
     </tr>
   </tbody>
 </table>
----
+
 
 📜 Certifications & Skills
 
@@ -245,7 +234,6 @@ pie showData
     </tr>
   </tbody>
 </table>
----
 
 🎓 Education
 
@@ -262,7 +250,6 @@ Saraswati Vidya Mandir	3× Section Topper • Class Rep. & Monitor	2012–2020
 - Open source contributions
 
 
----
 
 📬 Connect & Collaborate
 
@@ -280,7 +267,6 @@ Saraswati Vidya Mandir	3× Section Topper • Class Rep. & Monitor	2012–2020
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail" alt="Email"/>
   </a>
 </div>
----
 
 <p align="center">
   <em>“Code is poetry under pressure—every push a crafted move in my cyber-chess game.”</em>

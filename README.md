@@ -1,44 +1,82 @@
 # 🚀 Aditya Gupta | Full-Stack Developer & AI/ML Innovator
-<br>
-
-
 
 <div align="center">
-
-[![Profile Views](https://komarev.com/ghpvc/?username=adityagupta0251&label=Profile%20Views&color=3B82F6&style=for-the-badge)](https://github.com/adityagupta0251)
-[![GitHub Followers](https://img.shields.io/github/followers/adityagupta0251?label=Followers&style=for-the-badge&color=22C55E&labelColor=1F2937)](https://github.com/adityagupta0251?tab=followers)
-[![GitHub Stars](https://img.shields.io/github/stars/adityagupta0251?label=Total%20Stars&style=for-the-badge&color=F59E0B&labelColor=1F2937)](https://github.com/adityagupta0251)
-
-![Location](https://img.shields.io/badge/📍_Based_in-Pakur,_Jharkhand,_India-10B981?style=for-the-badge&labelColor=1F2937)
-![Age](https://img.shields.io/badge/🎂_Age-16_Years_Young-EF4444?style=for-the-badge&labelColor=1F2937)
-![Status](https://img.shields.io/badge/💼_Status-Open_to_Opportunities-8B5CF6?style=for-the-badge&labelColor=1F2937)
-
+  
+  <!-- Animated Header -->
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Welcome%20to%20My%20Digital%20Universe&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Where%20Innovation%20Meets%20Passion&descAlignY=55&descSize=15"/>
+  
+  <!-- Profile Picture with Animation -->
+  <div style="position: relative; display: inline-block;">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+%F0%9F%92%BB;AI%2FML+Enthusiast+%F0%9F%A4%96;Open+Source+Contributor+%F0%9F%8C%9F;16+Years+Old+Innovator+%F0%9F%9A%80" alt="Typing SVG" />
+  </div>
+  
+  <!-- Stats Badges -->
+  <p>
+    <a href="https://github.com/adityagupta0251">
+      <img src="https://komarev.com/ghpvc/?username=adityagupta0251&label=Profile%20Views&color=667eea&style=for-the-badge&labelColor=764ba2" alt="Profile Views"/>
+    </a>
+    <a href="https://github.com/adityagupta0251?tab=followers">
+      <img src="https://img.shields.io/github/followers/adityagupta0251?label=Followers&style=for-the-badge&color=4facfe&labelColor=00f2fe" alt="GitHub Followers"/>
+    </a>
+    <a href="https://github.com/adityagupta0251">
+      <img src="https://img.shields.io/github/stars/adityagupta0251?label=Total%20Stars&style=for-the-badge&color=ffd89b&labelColor=19547b" alt="GitHub Stars"/>
+    </a>
+  </p>
+  
+  <!-- Location & Status -->
+  <p>
+    <img src="https://img.shields.io/badge/📍%20Location-Pakur,%20Jharkhand,%20India-gradient?style=for-the-badge&labelColor=667eea&color=764ba2" alt="Location"/>
+    <img src="https://img.shields.io/badge/🎂%20Age-16%20Years%20Young-gradient?style=for-the-badge&labelColor=4facfe&color=00f2fe" alt="Age"/>
+    <img src="https://img.shields.io/badge/💼%20Status-Open%20to%20Opportunities-gradient?style=for-the-badge&labelColor=43e97b&color=38f9d7" alt="Status"/>
+  </p>
+  
 </div>
 
 ---
 
 ## 🌟 About Me
 
-<table align="center" width="100%">
+<table align="center">
 <tr>
 <td width="60%" valign="top">
 
 ### 👨‍💻 Who Am I?
 
-I'm a **passionate 16-year-old technologist** from Pakur, Jharkhand, India, on a mission to revolutionize the tech world through innovative solutions. Currently balancing **STEM-focused secondary education** while building scalable applications that solve real-world problems.
+```yaml
+name: Aditya Gupta
+age: 16
+location: Pakur, Jharkhand, India
+role: Full-Stack Developer & AI/ML Innovator
+passion: Building solutions that matter
+mission: Revolutionizing tech through innovation
+current_focus: 
+  - AI-powered healthcare solutions
+  - Scalable enterprise applications
+  - Open-source contributions
+  - Competitive programming mastery
+  - JEE Advanced preparation
+```
 
 ### 🎯 Current Mission
-- 🔥 Developing **AI-powered healthcare solutions**
-- 🚀 Building **scalable enterprise applications**
-- 🌐 Contributing to **open-source ecosystems**
-- 🏆 Mastering **competitive programming**
-- 📚 Preparing for **JEE Advanced** and global universities
+
+- 🔥 **Developing** AI-powered healthcare solutions
+- 🚀 **Building** scalable enterprise applications  
+- 🌐 **Contributing** to open-source ecosystems
+- 🏆 **Mastering** competitive programming
+- 📚 **Preparing** for JEE Advanced & global universities
 
 ### 🏅 Achievement Highlights
-- 🥇 **AISSEE District Rank #6** (Top 1% Nationally)
-- 🌍 **MLH Global Hack Week Champion** (Top 1% Worldwide)
-- 📈 **3× Consecutive Section Topper** (2015-2018)
-- 🏷️ **IBM Git Certified Professional**
+
+<div align="center">
+
+| 🏆 Achievement | 📊 Rank/Score | 🎯 Category |
+|:---:|:---:|:---:|
+| **AISSEE District** | `#6 (Top 1%)` | 🇮🇳 National |
+| **MLH Global Hack Week** | `Champion (Top 1%)` | 🌍 Worldwide |
+| **Section Topper** | `3× Consecutive` | 📚 Academic |
+| **IBM Git Certified** | `Professional` | 🏷️ Industry |
+
+</div>
 
 </td>
 <td width="40%" valign="top">
@@ -47,23 +85,37 @@ I'm a **passionate 16-year-old technologist** from Pakur, Jharkhand, India, on a
 
 ### 📊 Quick Stats
 
-```text
-🎯 Age:                    16 Years
-📍 Location:               Pakur, Jharkhand
-💻 Coding Since:           2020
-🌟 GitHub Repos:           25+
-⭐ Total Stars:            100+
-🔥 Streak Record:          45+ Days
-📧 Response Time:          < 2 Hours
+```ascii
+╭─────────────────────────────╮
+│  🎯 Age:           16 Years │
+│  📍 Location:      Pakur, JH│
+│  💻 Coding Since:      2020 │
+│  🌟 GitHub Repos:      25+ │
+│  ⭐ Total Stars:       100+ │
+│  🔥 Streak Record:  45+ Days│
+│  📧 Response Time: < 2 Hours│
+╰─────────────────────────────╯
 ```
 
 ### 🎨 Coding Activity
 
-```text
-🌅 Morning   ████████░░ 80%
-🌞 Daytime   ██████████ 100%
-🌆 Evening   ████████░░ 85%
-🌙 Night     ██████░░░░ 60%
+```ascii
+╭─ Daily Productivity ────────╮
+│ 🌅 Morning   ████████░░ 80% │
+│ 🌞 Daytime   ██████████100% │
+│ 🌆 Evening   ████████░░ 85% │
+│ 🌙 Night     ██████░░░░ 60% │
+╰─────────────────────────────╯
+```
+
+### 🌈 Fun Facts
+
+```yaml
+favorite_languages: [Java, Python, JavaScript]
+favorite_frameworks: [Spring Boot, React, Next.js]
+hobbies: [Coding, Gaming, Reading, Music]
+superpower: "Turning coffee into code ☕→💻"
+motto: "Code with purpose, innovate with passion"
 ```
 
 </div>
@@ -79,53 +131,49 @@ I'm a **passionate 16-year-old technologist** from Pakur, Jharkhand, India, on a
 <div align="center">
 
 ### 💻 Programming Languages
-[![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=000000)](https://www.java.com)
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=000000)](https://python.org)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=000000)](https://javascript.info)
-[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=000000)](https://typescriptlang.org)
-[![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white&labelColor=000000)](https://cplusplus.com)
+
+<p>
+  <img src="https://skillicons.dev/icons?i=java,python,js,ts,cpp,c,go,rust" alt="Programming Languages"/>
+</p>
 
 ### 🎨 Frontend Technologies
-[![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black&labelColor=000000)](https://react.dev)
-[![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white&labelColor=000000)](https://nextjs.org)
-[![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white&labelColor=000000)](https://vuejs.org)
-[![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white&labelColor=000000)](https://tailwindcss.com)
-[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=000000)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,angular,html,css,tailwind,bootstrap" alt="Frontend Technologies"/>
+</p>
 
 ### ⚡ Backend Technologies
-[![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white&labelColor=000000)](https://spring.io/projects/spring-boot)
-[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=000000)](https://nodejs.org)
-[![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white&labelColor=000000)](https://expressjs.com)
-[![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white&labelColor=000000)](https://djangoproject.com)
-[![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white&labelColor=000000)](https://fastapi.tiangolo.com)
+
+<p>
+  <img src="https://skillicons.dev/icons?i=spring,nodejs,express,django,fastapi,flask,graphql,prisma" alt="Backend Technologies"/>
+</p>
 
 ### 🗄️ Databases & Storage
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=000000)](https://postgresql.org)
-[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=000000)](https://mongodb.com)
-[![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white&labelColor=000000)](https://redis.io)
-[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=000000)](https://mysql.com)
-[![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black&labelColor=000000)](https://firebase.google.com)
+
+<p>
+  <img src="https://skillicons.dev/icons?i=postgresql,mongodb,redis,mysql,firebase,supabase,sqlite" alt="Databases"/>
+</p>
 
 ### 🤖 AI/ML & Data Science
-[![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=000000)](https://tensorflow.org)
-[![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white&labelColor=000000)](https://pytorch.org)
-[![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white&labelColor=000000)](https://opencv.org)
-[![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white&labelColor=000000)](https://pandas.pydata.org)
-[![Scikit Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white&labelColor=000000)](https://scikit-learn.org)
+
+<p>
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,sklearn" alt="AI/ML"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>
+</p>
 
 ### ☁️ Cloud & DevOps
-[![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=000000)](https://aws.amazon.com)
-[![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white&labelColor=000000)](https://cloud.google.com)
-[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=000000)](https://docker.com)
-[![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white&labelColor=000000)](https://kubernetes.io)
-[![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white&labelColor=000000)](https://vercel.com)
+
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,jenkins,vercel,netlify" alt="Cloud & DevOps"/>
+</p>
 
 ### 🔧 Tools & Platforms
-[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=000000)](https://git-scm.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=000000)](https://github.com)
-[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black&labelColor=000000)](https://kernel.org)
-[![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=000000)](https://code.visualstudio.com)
-[![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white&labelColor=000000)](https://jetbrains.com/idea)
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,idea,linux,windows,figma" alt="Tools"/>
+</p>
 
 </div>
 
@@ -133,121 +181,106 @@ I'm a **passionate 16-year-old technologist** from Pakur, Jharkhand, India, on a
 
 ## 🏗️ Signature Projects
 
-<table align="center" width="100%">
-  <thead>
-    <tr style="background: linear-gradient(90deg, #3B82F6, #1D4ED8);">
-      <th width="20%" style="color: white; padding: 12px;">🚀 Project</th>
-      <th width="35%" style="color: white; padding: 12px;">📋 Description</th>
-      <th width="25%" style="color: white; padding: 12px;">🛠️ Tech Stack</th>
-      <th width="10%" style="color: white; padding: 12px;">📊 Status</th>
-      <th width="10%" style="color: white; padding: 12px;">🔗 Links</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr style="background: rgba(59, 130, 246, 0.05);">
-      <td style="padding: 12px;"><strong>🏥 AIIMS Medical AI Simulator</strong></td>
-      <td style="padding: 12px;">Advanced AI-driven medical training platform with realistic simulations for healthcare professionals. Features include patient diagnosis scenarios, treatment recommendations, and performance analytics.</td>
-      <td style="padding: 12px;">
-        <code>Spring Boot</code><br>
-        <code>React</code><br>
-        <code>TensorFlow</code><br>
-        <code>PostgreSQL</code>
-      </td>
-      <td style="padding: 12px;">
-        <img src="https://img.shields.io/badge/🚀-Live-22C55E?style=flat-square" alt="Live"/>
-      </td>
-      <td style="padding: 12px;">
-        <a href="#"><img src="https://img.shields.io/badge/Demo-3B82F6?style=flat-square" alt="Demo"/></a><br>
-        <a href="#"><img src="https://img.shields.io/badge/Code-181717?style=flat-square" alt="Code"/></a>
-      </td>
-    </tr>
-    <tr style="background: rgba(34, 197, 94, 0.05);">
-      <td style="padding: 12px;"><strong>🎮 Adaptive Warzone Engine</strong></td>
-      <td style="padding: 12px;">Revolutionary AI-powered gaming platform that adapts gameplay in real-time based on player behavior. Includes advanced machine learning algorithms for dynamic difficulty adjustment.</td>
-      <td style="padding: 12px;">
-        <code>Python</code><br>
-        <code>TensorFlow</code><br>
-        <code>WebSockets</code><br>
-        <code>Redis</code>
-      </td>
-      <td style="padding: 12px;">
-        <img src="https://img.shields.io/badge/🔄-Development-F59E0B?style=flat-square" alt="Development"/>
-      </td>
-      <td style="padding: 12px;">
-        <a href="#"><img src="https://img.shields.io/badge/Preview-F59E0B?style=flat-square" alt="Preview"/></a><br>
-        <a href="#"><img src="https://img.shields.io/badge/Code-181717?style=flat-square" alt="Code"/></a>
-      </td>
-    </tr>
-    <tr style="background: rgba(139, 92, 246, 0.05);">
-      <td style="padding: 12px;"><strong>🛒 Enterprise E-Commerce Hub</strong></td>
-      <td style="padding: 12px;">Scalable enterprise-grade e-commerce solution with microservices architecture, real-time inventory management, and advanced analytics dashboard.</td>
-      <td style="padding: 12px;">
-        <code>Next.js</code><br>
-        <code>Spring Boot</code><br>
-        <code>Docker</code><br>
-        <code>AWS</code>
-      </td>
-      <td style="padding: 12px;">
-        <img src="https://img.shields.io/badge/✅-Completed-10B981?style=flat-square" alt="Completed"/>
-      </td>
-      <td style="padding: 12px;">
-        <a href="#"><img src="https://img.shields.io/badge/Live-22C55E?style=flat-square" alt="Live"/></a><br>
-        <a href="#"><img src="https://img.shields.io/badge/Code-181717?style=flat-square" alt="Code"/></a>
-      </td>
-    </tr>
-    <tr style="background: rgba(239, 68, 68, 0.05);">
-      <td style="padding: 12px;"><strong>🔐 CyberSec Toolkit</strong></td>
-      <td style="padding: 12px;">Comprehensive ethical hacking and penetration testing toolkit with automated vulnerability scanning, network analysis, and security reporting features.</td>
-      <td style="padding: 12px;">
-        <code>Python</code><br>
-        <code>Linux</code><br>
-        <code>Nmap</code><br>
-        <code>Bash</code>
-      </td>
-      <td style="padding: 12px;">
-        <img src="https://img.shields.io/badge/🔄-Active-3B82F6?style=flat-square" alt="Active"/>
-      </td>
-      <td style="padding: 12px;">
-        <a href="#"><img src="https://img.shields.io/badge/Docs-6366F1?style=flat-square" alt="Docs"/></a><br>
-        <a href="#"><img src="https://img.shields.io/badge/Code-181717?style=flat-square" alt="Code"/></a>
-      </td>
-    </tr>
-    <tr style="background: rgba(245, 158, 11, 0.05);">
-      <td style="padding: 12px;"><strong>🤖 ChatBot Intelligence Hub</strong></td>
-      <td style="padding: 12px;">Advanced conversational AI platform with natural language processing capabilities, multi-language support, and enterprise-grade integrations.</td>
-      <td style="padding: 12px;">
-        <code>Python</code><br>
-        <code>FastAPI</code><br>
-        <code>Transformers</code><br>
-        <code>MongoDB</code>
-      </td>
-      <td style="padding: 12px;">
-        <img src="https://img.shields.io/badge/🚀-Beta-8B5CF6?style=flat-square" alt="Beta"/>
-      </td>
-      <td style="padding: 12px;">
-        <a href="#"><img src="https://img.shields.io/badge/Try_It-8B5CF6?style=flat-square" alt="Try It"/></a><br>
-        <a href="#"><img src="https://img.shields.io/badge/Code-181717?style=flat-square" alt="Code"/></a>
-      </td>
-    </tr>
-    <tr style="background: rgba(34, 197, 94, 0.05);">
-      <td style="padding: 12px;"><strong>📊 Data Visualization Suite</strong></td>
-      <td style="padding: 12px;">Interactive data visualization platform with real-time analytics, custom dashboard creation, and advanced chart generation capabilities.</td>
-      <td style="padding: 12px;">
-        <code>React</code><br>
-        <code>D3.js</code><br>
-        <code>Node.js</code><br>
-        <code>PostgreSQL</code>
-      </td>
-      <td style="padding: 12px;">
-        <img src="https://img.shields.io/badge/✅-Completed-10B981?style=flat-square" alt="Completed"/>
-      </td>
-      <td style="padding: 12px;">
-        <a href="#"><img src="https://img.shields.io/badge/Demo-22C55E?style=flat-square" alt="Demo"/></a><br>
-        <a href="#"><img src="https://img.shields.io/badge/Code-181717?style=flat-square" alt="Code"/></a>
-      </td>
-    </tr>
-  </tbody>
+<div align="center">
+
+### 🌟 Featured Projects
+
+<table width="100%">
+<thead>
+<tr>
+<th width="25%">🚀 Project</th>
+<th width="40%">📋 Description</th>
+<th width="20%">🛠️ Tech Stack</th>
+<th width="15%">🔗 Links</th>
+</tr>
+</thead>
+<tbody>
+
+<tr>
+<td align="center">
+<img src="https://img.shields.io/badge/🏥-AIIMS_Medical_AI-667eea?style=for-the-badge&labelColor=764ba2"/>
+<br/><br/>
+<img src="https://img.shields.io/badge/Status-🚀_Live-success?style=flat-square"/>
+</td>
+<td>
+<strong>Advanced AI-driven medical training platform</strong> 
+<br/><br/>
+🎯 Features realistic patient diagnosis scenarios<br/>
+💡 Provides treatment recommendations<br/>
+📊 Includes comprehensive performance analytics<br/>
+🏥 Designed for healthcare professionals
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white"/><br/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/><br/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/><br/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+</td>
+<td align="center">
+<a href="#"><img src="https://img.shields.io/badge/Demo-667eea?style=for-the-badge"/></a>
+<br/><br/>
+<a href="#"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github"/></a>
+</td>
+</tr>
+
+<tr>
+<td align="center">
+<img src="https://img.shields.io/badge/🎮-Adaptive_Warzone-4facfe?style=for-the-badge&labelColor=00f2fe"/>
+<br/><br/>
+<img src="https://img.shields.io/badge/Status-🔄_Dev-warning?style=flat-square"/>
+</td>
+<td>
+<strong>Revolutionary AI-powered gaming platform</strong>
+<br/><br/>
+🎮 Real-time gameplay adaptation<br/>
+🤖 ML algorithms for difficulty adjustment<br/>
+⚡ Advanced behavioral analysis<br/>
+🌐 Multiplayer support with WebSockets
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/><br/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/><br/>
+<img src="https://img.shields.io/badge/WebSocket-010101?style=flat-square&logo=socket.io&logoColor=white"/><br/>
+<img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
+</td>
+<td align="center">
+<a href="#"><img src="https://img.shields.io/badge/Preview-4facfe?style=for-the-badge"/></a>
+<br/><br/>
+<a href="#"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github"/></a>
+</td>
+</tr>
+
+<tr>
+<td align="center">
+<img src="https://img.shields.io/badge/🛒-E_Commerce_Hub-43e97b?style=for-the-badge&labelColor=38f9d7"/>
+<br/><br/>
+<img src="https://img.shields.io/badge/Status-✅_Live-success?style=flat-square"/>
+</td>
+<td>
+<strong>Enterprise-grade e-commerce solution</strong>
+<br/><br/>
+🏗️ Microservices architecture<br/>
+📊 Real-time inventory management<br/>
+📈 Advanced analytics dashboard<br/>
+☁️ Scalable cloud deployment
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/><br/>
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white"/><br/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/><br/>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white"/>
+</td>
+<td align="center">
+<a href="#"><img src="https://img.shields.io/badge/Live-43e97b?style=for-the-badge"/></a>
+<br/><br/>
+<a href="#"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github"/></a>
+</td>
+</tr>
+
+</tbody>
 </table>
+
+</div>
 
 ---
 
@@ -257,42 +290,62 @@ I'm a **passionate 16-year-old technologist** from Pakur, Jharkhand, India, on a
 
 ### 📊 Comprehensive Statistics
 
-<img height="200em" src="https://github-readme-stats.vercel.app/api?username=adityagupta0251&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=3B82F6&icon_color=22C55E&text_color=ffffff&border_radius=10" />
-<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityagupta0251&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&bg_color=0d1117&title_color=3B82F6&text_color=ffffff&border_radius=10" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=adityagupta0251&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=667eea&icon_color=43e97b&text_color=ffffff&border_radius=15">
+  <img height="200" src="https://github-readme-stats.vercel.app/api?username=adityagupta0251&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true&border_radius=15" />
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=adityagupta0251&layout=donut&theme=tokyonight&hide_border=true&langs_count=8&bg_color=0d1117&title_color=667eea&text_color=ffffff&border_radius=15">
+  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityagupta0251&layout=donut&theme=default&hide_border=true&langs_count=8&border_radius=15" />
+</picture>
 
 ### 🔥 Contribution Streak
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=adityagupta0251&theme=tokyonight&hide_border=true&background=0d1117&stroke=3B82F6&ring=22C55E&fire=F59E0B&currStreakLabel=3B82F6&sideLabels=ffffff&currStreakNum=22C55E&sideNums=3B82F6&dates=ffffff&border_radius=10" alt="GitHub Streak" width="600"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=adityagupta0251&theme=tokyonight&hide_border=true&background=0d1117&stroke=667eea&ring=43e97b&fire=ffd89b&currStreakLabel=667eea&sideLabels=ffffff&currStreakNum=43e97b&sideNums=667eea&dates=ffffff&border_radius=15">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adityagupta0251&theme=default&hide_border=true&border_radius=15" />
+</picture>
 
-### 📈 Contribution Graph
+### 📈 Activity Graph
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=adityagupta0251&theme=tokyo-night&bg_color=0d1117&color=3B82F6&line=22C55E&point=F59E0B&area=true&hide_border=true&border_radius=10" width="100%"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=adityagupta0251&theme=tokyo-night&bg_color=0d1117&color=667eea&line=43e97b&point=ffd89b&area=true&hide_border=true&border_radius=15">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=adityagupta0251&theme=minimal&bg_color=ffffff&color=667eea&line=43e97b&point=ffd89b&area=true&hide_border=true&border_radius=15" />
+</picture>
 
-### 💻 Coding Activity Breakdown
+### 💻 Language Usage & Activity
 
 <div align="center">
-<table width="80%">
+<table>
 <tr>
-<td width="50%" valign="top">
+<td width="50%">
 
-#### 🌟 Top Languages
-```text
-Java          ████████████ 35%
-Python        ██████████░░ 28%
-JavaScript    ████████░░░░ 22%
-TypeScript    ████░░░░░░░░ 10%
-C++           ██░░░░░░░░░░  5%
+#### 🌟 Top Languages by Usage
+```ascii
+╭─ Language Distribution ─────╮
+│ Java         ████████████35%│
+│ Python       ██████████  28%│
+│ JavaScript   ████████    22%│
+│ TypeScript   ████        10%│
+│ C++          ██           5%│
+╰─────────────────────────────╯
 ```
 
 </td>
-<td width="50%" valign="top">
+<td width="50%">
 
-#### ⚡ Activity Times
-```text
-🌅 06:00-12:00  ████████░░ 40%
-🌞 12:00-18:00  ██████████ 50%
-🌆 18:00-00:00  ████████░░ 35%
-🌙 00:00-06:00  ██░░░░░░░░ 10%
+#### ⚡ Weekly Activity Pattern
+```ascii
+╭─ Coding Hours Distribution ─╮
+│ Mon  ████████████████   80% │
+│ Tue  ██████████████     70% │
+│ Wed  ████████████████   85% │
+│ Thu  ██████████████     75% │
+│ Fri  ██████████         60% │
+│ Sat  ████████████████   90% │
+│ Sun  ██████             40% │
+╰─────────────────────────────╯
 ```
 
 </td>
@@ -300,9 +353,11 @@ C++           ██░░░░░░░░░░  5%
 </table>
 </div>
 
-### 🏆 GitHub Trophies
+### 🏆 GitHub Achievements
 
-<img src="https://github-profile-trophy.vercel.app/?username=adityagupta0251&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=2&column=4" width="100%"/>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=adityagupta0251&theme=darkhub&no-frame=true&no-bg=false&margin-w=4&row=2&column=4&title=Stars,Followers,Commits,Repositories,Issues,PullRequest,MultiLanguage,Experience" />
+</div>
 
 </div>
 
@@ -312,47 +367,69 @@ C++           ██░░░░░░░░░░  5%
 
 <div align="center">
 
-<table width="100%">
+### 🚀 Development Roadmap
+
+```mermaid
+gantt
+    title 2025 Development Goals
+    dateFormat  YYYY-MM-DD
+    section Skills
+    Advanced System Design     :2025-01-01, 90d
+    AI/ML Specialization      :2025-02-01, 120d
+    Cloud Architecture        :2025-03-01, 90d
+    section Projects
+    Healthcare Platform       :2025-01-15, 60d
+    Gaming Engine            :2025-03-01, 90d
+    Open Source Contributions:2025-01-01, 365d
+    section Career
+    JEE Advanced Preparation :2025-01-01, 150d
+    University Applications  :2025-04-01, 90d
+    Tech Internships        :2025-06-01, 90d
+```
+
+</div>
+
+<table align="center" width="100%">
 <tr>
 <td width="50%" valign="top">
 
 ### 🎯 Short-term Goals (Q1-Q2 2025)
-- [ ] 🏆 Achieve **Specialist** rating on Codeforces
-- [ ] 🚀 Launch **3 major open-source projects**
-- [ ] 📚 Complete **Advanced System Design** course
-- [ ] 🤖 Publish **AI research paper** in healthcare
-- [ ] 🌐 Contribute to **5 major open-source projects**
+
+- [ ] 🏆 Achieve **Specialist** rating on Codeforces (1400+)
+- [ ] 🚀 Launch **3 major open-source projects** with 500+ stars
+- [ ] 📚 Complete **Advanced System Design** certification
+- [ ] 🤖 Publish **AI research paper** in healthcare domain
+- [ ] 🌐 Contribute to **5 major open-source projects** (React, Spring, etc.)
 - [ ] 📱 Build **mobile app** with 10K+ downloads
+- [ ] 🎤 Speak at **2 tech conferences** or meetups
+- [ ] 📝 Write **20 technical blog posts** with 50K+ views
 
 </td>
 <td width="50%" valign="top">
 
 ### 🌟 Long-term Vision (2025-2026)
-- [ ] 🎓 **JEE Advanced** top 1000 rank
-- [ ] 🌍 Acceptance to **top international universities**
-- [ ] 🏢 **Internship** at major tech company
-- [ ] 📖 Author technical blog with **100K+ readers**
-- [ ] 🎤 Speaker at **major tech conferences**
-- [ ] 💼 Launch own **tech startup**
+
+- [ ] 🎓 **JEE Advanced** top 1000 rank (99.5+ percentile)
+- [ ] 🌍 Acceptance to **top international universities** (MIT, Stanford, CMU)
+- [ ] 🏢 **Internship** at FAANG/major tech company
+- [ ] 📖 Author technical blog with **100K+ monthly readers**
+- [ ] 🏆 Win **international coding competition** (ACM ICPC, Google Code Jam)
+- [ ] 💰 Generate **$10K+ revenue** from side projects
+- [ ] 👥 Build team of **10+ developers** for startup
+- [ ] 💼 Launch own **tech startup** with seed funding
 
 </td>
 </tr>
 </table>
 
-### 📈 Growth Trajectory
+<div align="center">
 
-```mermaid
-graph LR
-    A[🚀 Current State] --> B[📚 Skill Enhancement]
-    B --> C[🔥 Project Portfolio]
-    C --> D[🌐 Open Source]
-    D --> E[🏆 Competitions]
-    E --> F[🎓 Higher Education]
-    F --> G[💼 Career Success]
-    
-    style A fill:#3B82F6,stroke:#1D4ED8,stroke-width:3px,color:#fff
-    style G fill:#22C55E,stroke:#16A34A,stroke-width:3px,color:#fff
-```
+### 📈 Progress Tracking
+
+<img src="https://progress-bar.dev/75/?title=Overall%20Progress&width=600&color=667eea" />
+<img src="https://progress-bar.dev/85/?title=Technical%20Skills&width=600&color=43e97b" />
+<img src="https://progress-bar.dev/70/?title=Project%20Portfolio&width=600&color=4facfe" />
+<img src="https://progress-bar.dev/60/?title=Academic%20Goals&width=600&color=ffd89b" />
 
 </div>
 
@@ -362,51 +439,171 @@ graph LR
 
 <div align="center">
 
+### 🌟 Hall of Fame
+
 <table width="100%">
 <tr>
 <td width="25%" align="center">
-<img src="https://img.shields.io/badge/🥇-AISSEE_Rank_6-FFD700?style=for-the-badge&labelColor=000000" width="100%"/>
-<br><small><strong>Top 1% Nationally</strong></small>
+<div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 20px; border-radius: 15px; color: white;">
+<h3>🥇</h3>
+<h4>AISSEE Rank 6</h4>
+<p><strong>Top 1% Nationally</strong></p>
+<small>All India Sainik School Entrance Exam</small>
+</div>
 </td>
 <td width="25%" align="center">
-<img src="https://img.shields.io/badge/🌍-MLH_Champion-FF6B6B?style=for-the-badge&labelColor=000000" width="100%"/>
-<br><small><strong>Global Recognition</strong></small>
+<div style="background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%); padding: 20px; border-radius: 15px; color: white;">
+<h3>🌍</h3>
+<h4>MLH Champion</h4>
+<p><strong>Global Recognition</strong></p>
+<small>Major League Hacking Global Week</small>
+</div>
 </td>
 <td width="25%" align="center">
-<img src="https://img.shields.io/badge/📚-Section_Topper-4ECDC4?style=for-the-badge&labelColor=000000" width="100%"/>
-<br><small><strong>3 Consecutive Years</strong></small>
+<div style="background: linear-gradient(135deg, #43e97b 0%, #38f9d7 100%); padding: 20px; border-radius: 15px; color: white;">
+<h3>📚</h3>
+<h4>Section Topper</h4>
+<p><strong>3 Consecutive Years</strong></p>
+<small>Academic Excellence 2015-2018</small>
+</div>
 </td>
 <td width="25%" align="center">
-<img src="https://img.shields.io/badge/🏷️-IBM_Certified-0052CC?style=for-the-badge&labelColor=000000" width="100%"/>
-<br><small><strong>Git Professional</strong></small>
+<div style="background: linear-gradient(135deg, #fa709a 0%, #fee140 100%); padding: 20px; border-radius: 15px; color: white;">
+<h3>🏷️</h3>
+<h4>IBM Certified</h4>
+<p><strong>Git Professional</strong></p>
+<small>Industry Standard Certification</small>
+</div>
 </td>
 </tr>
 </table>
 
-### 🏆 Competition History
+### 🏆 Competition Timeline
 
-| Year | Competition | Rank | Category |
-|------|-------------|------|----------|
-| 2024 | MLH Global Hack Week | 🥇 1st | International |
-| 2024 | AISSEE National Exam | 🥈 6th | National |
----
+```ascii
+2024  ████████████████████████████████████████████ 
+      │                    │               │
+      │                    │               └─ AISSEE Rank 6 (National)
+      │                    └─ MLH Global Champion (International)
+      └─ Multiple Hackathon Wins
 
-## 🤝 Let's Connect
+2023  ████████████████████████████████
+      │               │
+      │               └─ Regional Coding Competitions
+      └─ Academic Excellence Awards
+
+2022  ████████████████████
+      │           │
+      │           └─ First Open Source Contributions
+      └─ Started Competitive Programming
+```
+
+### 📜 Certifications & Skills
 
 <div align="center">
-  
-  [![Email](https://img.shields.io/badge/Email-adiunknown0261@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adiunknown0261@gmail.com)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Aditya%20Gupta-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/adityagupta0251)
-  [![GitHub](https://img.shields.io/badge/GitHub-adityagupta0251-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/adityagupta0251)
-  
+<table>
+<tr>
+<td align="center">
+<img src="https://img.shields.io/badge/IBM-Git_Professional-0052CC?style=for-the-badge&logo=ibm&logoColor=white"/>
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/Oracle-Java_SE-ED8B00?style=for-the-badge&logo=oracle&logoColor=white"/>
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/AWS-Cloud_Practitioner-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<img src="https://img.shields.io/badge/Google-Cloud_Associate-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/>
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/Microsoft-Azure_Fundamentals-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white"/>
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/GitHub-Actions_Certified-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</td>
+</tr>
+</table>
+</div>
+
+</div>
+
+---
+
+## 🌐 Let's Connect & Collaborate
+
+<div align="center">
+
+### 💬 Get In Touch
+
+<table>
+<tr>
+<td align="center" width="33%">
+<div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 15px; border-radius: 10px;">
+<h3 style="color: white; margin: 0;">📧 Email</h3>
+<a href="mailto:adiunknown0261@gmail.com" style="color: white; text-decoration: none;">
+<strong>adiunknown0261@gmail.com</strong>
+</a>
+<br/><small style="color: #f0f0f0;">Response within 2 hours</small>
+</div>
+</td>
+<td align="center" width="33%">
+<div style="background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%); padding: 15px; border-radius: 10px;">
+<h3 style="color: white; margin: 0;">💼 LinkedIn</h3>
+<a href="https://linkedin.com/in/adityagupta0251" style="color: white; text-decoration: none;">
+<strong>Aditya Gupta</strong>
+</a>
+<br/><small style="color: #f0f0f0;">Professional networking</small>
+</div>
+</td>
+<td align="center" width="33%">
+<div style="background: linear-gradient(135deg, #43e97b 0%, #38f9d7 100%); padding: 15px; border-radius: 10px;">
+<h3 style="color: white; margin: 0;">🐙 GitHub</h3>
+<a href="https://github.com/adityagupta0251" style="color: white; text-decoration: none;">
+<strong>@adityagupta0251</strong>
+</a>
+<br/><small style="color: #f0f0f0;">Open source collaboration</small>
+</div>
+</td>
+</tr>
+</table>
+
+### 🤝 Open to Opportunities
+
+<p align="center">
+<img src="https://img.shields.io/badge/💼-Open_for_Internships-success?style=for-the-badge&labelColor=667eea&color=43e97b"/>
+<img src="https://img.shields.io/badge/🚀-Freelance_Projects-success?style=for-the-badge&labelColor=4facfe&color=00f2fe"/>
+<img src="https://img.shields.io/badge/🤝-Collaboration-success?style=for-the-badge&labelColor=fa709a&color=fee140"/>
+<img src="https://img.shields.io/badge/🎤-Speaking_Events-success?style=for-the-badge&labelColor=764ba2&color=667eea"/>
+</p>
+
+### 📱 Social Media
+
+<p align="center">
+<a href="#"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+<a href="#"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href="#"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+<a href="#"><img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"/></a>
+<a href="#"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/></a>
+</p>
+
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://camo.githubusercontent.com/1affe4b9e2cac8ec88282e83a00a56145c4632e3fa8a5093c2975420a6941839/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d6772616469656e7426637573746f6d436f6c6f724c6973743d362c31312c3230266865696768743d38302673656374696f6e3d666f6f746572" width="100%" />
   
-  **💡 "Code with purpose, innovate with passion"**
+  <!-- Animated Footer -->
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=120&section=footer&animation=fadeIn"/>
   
-  <sub>⭐ Star this repository if you find it helpful!</sub>
-</div>
+  ### 💭 Philosophy
+  
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&width=600&lines=Code+with+Purpose+%F0%9F%8E%AF;Innovate+with+Passion+%F0%9F%94%A5;Learn+with+Curiosity+%F0%9F%A7%A0;Build+with+Impact+%F0%9F%9A%80" alt="Philosophy"/>
+  
+  ---
+  
+  <p>
+    <strong>⭐ Star this repository if you find it helpful!</strong>
+    <br/>
+    <em>Let's build the future together, one commit at a time! 🚀</em>

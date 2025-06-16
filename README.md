@@ -320,10 +320,10 @@
 
 ### 📊 Progress Dashboard
 
-<img src="https://progress-bar.dev/85/?title=🎯%20Overall%20Goals&width=600&color=4ECDC4&suffix=%20Complete" />
-<img src="https://progress-bar.dev/90/?title=💻%20Technical%20Skills&width=600&color=FF6B6B&suffix=%20Mastered" />
-<img src="https://progress-bar.dev/75/?title=🚀%20Project%20Portfolio&width=600&color=96CEB4&suffix=%20Built" />
-<img src="https://progress-bar.dev/80/?title=🏆%20Competitive%20Coding&width=600&color=FFEAA7&suffix=%20Achieved" />
+<img src="https://img.shields.io/badge/🎯%20Overall%20Goals-85%25-4ECDC4?style=for-the-badge" />
+<img src="https://img.shields.io/badge/💻%20Technical%20Skills-90%25-FF6B6B?style=for-the-badge" />
+<img src="https://img.shields.io/badge/🚀%20Project%20Portfolio-75%25-96CEB4?style=for-the-badge" />
+<img src="https://img.shields.io/badge/🏆%20Competitive%20Coding-80%25-FFEAA7?style=for-the-badge&labelColor=555" />
 
 </div>
 

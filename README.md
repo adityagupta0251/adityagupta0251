@@ -3,11 +3,55 @@
 <div align="center">
 
 <!-- Epic Header Animation -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:FF6B6B,20:4ECDC4,40:45B7D1,60:96CEB4,80:FFEAA7,100:DDA0DD&height=320&section=header&text=ADITYA%20GUPTA&fontSize=55&fontColor=FFFFFF&animation=twinkling&fontAlignY=35&desc=Full-Stack%20Developer%20%E2%80%A2%20AI%2FML%20Innovator%20%E2%80%A2%20Open%20Source%20Champion&descAlignY=55&descSize=20"/>
-
-<!-- Dynamic Typing Animation -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&pause=1000&color=4ECDC4&center=true&vCenter=true&width=800&height=80&lines=🚀+16-Year-Old+Tech+Visionary;💻+Full-Stack+Architect;🤖+AI%2FML+Pioneer;🌟+Open+Source+Champion;🏆+Competition+Winner;☕+Coffee-Powered+Coder" alt="Dynamic Typing Animation" />
-
+```ascii
+╔═══════════════════════════════════════════════════════════════════════════════════════════════════════╗
+║                                      🌟 ADITYA GUPTA 🌟                                              ║
+║                                   Digital Innovation Architect                                        ║
+╠═══════════════════════════════════════════════════════════════════════════════════════════════════════╣
+║                                                                                                       ║
+║  █████╗ ██████╗ ██╗████████╗██╗   ██╗ █████╗     ██████╗ ██╗   ██╗██████╗ ████████╗ █████╗           ║
+║ ██╔══██╗██╔══██╗██║╚══██╔══╝╚██╗ ██╔╝██╔══██╗   ██╔════╝ ██║   ██║██╔══██╗╚══██╔══╝██╔══██╗          ║
+║ ███████║██║  ██║██║   ██║    ╚████╔╝ ███████║   ██║  ███╗██║   ██║██████╔╝   ██║   ███████║          ║
+║ ██╔══██║██║  ██║██║   ██║     ╚██╔╝  ██╔══██║   ██║   ██║██║   ██║██╔═══╝    ██║   ██╔══██║          ║
+║ ██║  ██║██████╔╝██║   ██║      ██║   ██║  ██║   ╚██████╔╝╚██████╔╝██║        ██║   ██║  ██║          ║
+║ ╚═╝  ╚═╝╚═════╝ ╚═╝   ╚═╝      ╚═╝   ╚═╝  ╚═╝    ╚═════╝  ╚═════╝ ╚═╝        ╚═╝   ╚═╝  ╚═╝          ║
+║                                                                                                       ║
+╠═══════════════════════════════════════════════════════════════════════════════════════════════════════╣
+║                                        PROFESSIONAL IDENTITY                                          ║
+╠═══════════════════════════════════════════════════════════════════════════════════════════════════════╣
+║                                                                                                       ║
+║    💻 Full-Stack Developer    •    🤖 AI/ML Innovator    •    🌟 Open Source Champion                ║
+║                                                                                                       ║
+╠═══════════════════════════════════════════════════════════════════════════════════════════════════════╣
+║                                         EXPERTISE MATRIX                                             ║
+╠═══════════════════════════════════════════════════════════════════════════════════════════════════════╣
+║                                                                                                       ║
+║    ┌─────────────────────────────────────┐    ┌─────────────────────────────────────┐               ║
+║    │  🚀 VISIONARY PROFILE               │    │  🎯 TECHNICAL MASTERY              │               ║
+║    │                                     │    │                                     │               ║
+║    │  • 16-Year-Old Tech Visionary       │    │  • Full-Stack Architect            │               ║
+║    │  • Innovation-Driven Mindset        │    │  • AI/ML Pioneer                   │               ║
+║    │  • Future Technology Leader         │    │  • System Design Expert            │               ║
+║    └─────────────────────────────────────┘    └─────────────────────────────────────┘               ║
+║                                                                                                       ║
+║    ┌─────────────────────────────────────┐    ┌─────────────────────────────────────┐               ║
+║    │  🌟 COMMUNITY IMPACT                │    │  🏆 ACHIEVEMENTS                    │               ║
+║    │                                     │    │                                     │               ║
+║    │  • Open Source Champion             │    │  • Competition Winner               │               ║
+║    │  • Knowledge Sharing Advocate       │    │  • Recognition & Awards            │               ║
+║    │  • Collaborative Development        │    │  • Technical Excellence            │               ║
+║    └─────────────────────────────────────┘    └─────────────────────────────────────┘               ║
+║                                                                                                       ║
+╠═══════════════════════════════════════════════════════════════════════════════════════════════════════╣
+║                                         SIGNATURE STYLE                                              ║
+╠═══════════════════════════════════════════════════════════════════════════════════════════════════════╣
+║                                                                                                       ║
+║                              ☕ Coffee-Powered Coder & Digital Architect                             ║
+║                                                                                                       ║
+║                    "Building tomorrow's technology with today's innovation spirit"                   ║
+║                                                                                                       ║
+╚═══════════════════════════════════════════════════════════════════════════════════════════════════════╝
+```
 ```ascii
 ╔══════════════════════════════════════════════════════════════════════════════════════════╗
 ║                                    🌟 DIGITAL ARCHITECT 🌟                               ║

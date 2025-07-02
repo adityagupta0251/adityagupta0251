@@ -1,5 +1,3 @@
-# 🌌 Welcome to Aditya's Digital Universe
-
 <div align="center">
 
 <!-- Epic Header Animation -->

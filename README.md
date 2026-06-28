@@ -1,16 +1,69 @@
-## Hi there 👋
+```
+ █████╗ ██████╗ ██╗    ██╗  ██╗
+██╔══██╗██╔══██╗██║    ██║ ██╔╝
+███████║██║  ██║██║    █████╔╝ 
+██╔══██║██║  ██║██║    ██╔═██╗ 
+██║  ██║██████╔╝██║    ██║  ██╗
+╚═╝  ╚═╝╚═════╝ ╚═╝    ╚═╝  ╚═╝
+```
 
-<!--
-**adityagupta0251/adityagupta0251** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# I'm **Aditya Kr** 👋
 
-Here are some ideas to get you started:
+Full Stack Dev · Indie Hacker · Curious at Web3 & AI/ML
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```
+┌─────────────────────────────────────────┐
+│  > whoami                               │
+│  Aditya Kr · 17 · Pakur, Jharkhand 🌍   │
+│  > skills                               │
+│  Full Stack · Web3 · AI/ML · Real-time  │
+│  > status                               │
+│  🟢 Building cool stuff in public       │
+└─────────────────────────────────────────┘
+```
+
+## About
+
+- 🔭 Building Learning OS
+- 🌱 Learning real-time systems, Rust, and AI/ML integration
+- 💡 Indie hacker
+- 📍 Pakur, Jharkhand ·
+- 📬 nooneitsadik0251@gmail.com
+
+
+
+## Stack
+
+```
+Languages   ██ TypeScript  ██ Python  ██ Java  ██ C++  ██ Rust
+Frontend    ██ Next.js  ██ React  ██ Tailwind  ██ HTML/CSS
+Backend     ██ Node.js  ██ Prisma  ██ REST  ██ WebSockets
+Web3        ██ Solana  ██ Anchor  ██ Metaplex  ██ Arcium MXE
+Tools       ██ Git  ██ Docker  ██ Vercel  ██ GitHub Actions
+```
+
+## Contribution pace
+
+```
+  Mon  Wed  Fri
+   ░    ░    ▒    ← light activity
+   ▒    ▓    ▓    ← building…
+   ▓    ▓    █    ← shipping!
+   █    █    █    ← 🔥 streak mode
+```
+
+## Timeline
+
+```
+2024 ──▶ Started GitHub · First commits
+  │
+2025 ──▶ Learned Solana + DApp dev
+  │       Java · C++ · DApp Practice
+  │
+2026 ──▶ Shipped some freaky stuffs!
+  │       Votara · yield-veil · TheGuildGenesis
+  │       TypeScript · Web · Python repos
+  │       Rust (lust_for_rust) 🦀
+  │
+ NOW ──▶ Competitive Programming · DSA/CP
+```

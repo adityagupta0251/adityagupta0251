@@ -47,9 +47,9 @@ Tools       ██ Git  ██ Docker  ██ Vercel  ██ GitHub Actions
 ```
   Mon  Wed  Fri
    ░    ░    ▒    ← light activity
-   ▒    ▓    ▓    ← building…
-   ▓    ▓    █    ← shipping!
-   █    █    █    ← 🔥 streak mode
+   ▒    ▒    ▓    ← building…
+   ▒    ▒    █    ← shipping!
+   ▒    █    █    ← 🔥 streak mode
 ```
 
 ## Timeline

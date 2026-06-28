@@ -7,28 +7,28 @@
 ╚═╝  ╚═╝╚═════╝ ╚═╝    ╚═╝  ╚═╝
 ```
 
-# I'm **Aditya Kr** 👋
+# I'm **Aditya Kr**
 
 Full Stack Dev · Indie Hacker · Curious at Web3 & AI/ML
 
 ```
 ┌─────────────────────────────────────────┐
 │  > whoami                               │
-│  Aditya Kr · 17 · Pakur, Jharkhand 🌍   │
+│  Aditya Kr · 17 · Pakur, Jharkhand    │
 │  > skills                               │
 │  Full Stack · Web3 · AI/ML · Real-time  │
 │  > status                               │
-│  🟢 Building cool stuff in public       │
+│   Building cool stuff in public       │
 └─────────────────────────────────────────┘
 ```
 
 ## About
 
-- 🔭 Building Learning OS
-- 🌱 Learning real-time systems, Rust, and AI/ML integration
-- 💡 Indie hacker
-- 📍 Pakur, Jharkhand ·
-- 📬 nooneitsadik0251@gmail.com
+-  Building Learning OS
+-  Learning real-time systems, Rust, and AI/ML integration
+-  Indie hacker
+-  Pakur, Jharkhand ·
+-  nooneitsadik0251@gmail.com
 
 
 
@@ -49,7 +49,7 @@ Tools       ██ Git  ██ Docker  ██ Vercel  ██ GitHub Actions
    ░    ░    ▒    ← light activity
    ▒    ▒    ▓    ← building…
    ▒    ▒    █    ← shipping!
-   ▒    █    █    ← 🔥 streak mode
+   ▒    █    █    ← streak mode
 ```
 
 ## Timeline
@@ -63,7 +63,7 @@ Tools       ██ Git  ██ Docker  ██ Vercel  ██ GitHub Actions
 2026 ──▶ Shipped some freaky stuffs!
   │       Votara · yield-veil · TheGuildGenesis
   │       TypeScript · Web · Python repos
-  │       Rust (lust_for_rust) 🦀
+  │       Rust (lust_for_rust) 
   │
  NOW ──▶ Competitive Programming · DSA/CP
 ```
